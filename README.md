@@ -1,6 +1,6 @@
-# Vue 3 + Vite
+# Weight Tracker in Vue 3
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a simple weight tracker simply created with Vue 3 and CSS, for learning purposes only. Probably, I'll upgrade this one or remake it using the same tech, but with Typescript and integration with Supabase or Google Docs.
 
 ## Recommended IDE Setup
 
